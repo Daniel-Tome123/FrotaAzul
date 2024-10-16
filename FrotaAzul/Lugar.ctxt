@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lugar
+comment1.params=identificador
+comment1.target=Lugar(int)
+comment2.params=
+comment2.target=int\ getIdentificador()
+comment3.params=id
+comment3.target=void\ setIdentificador(int)
+comment4.params=
+comment4.target=boolean\ getDisponibilidade()
+comment5.params=disp
+comment5.target=void\ setDisponibilidade(boolean)
+comment6.params=autocarro
+comment6.target=void\ estacionarAutocarro(Autocarro)
+comment7.params=
+comment7.target=void\ retirarAutocarro()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

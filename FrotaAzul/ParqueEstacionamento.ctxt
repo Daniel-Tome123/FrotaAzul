@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ParqueEstacionamento
+comment1.params=nome\ numLugares
+comment1.target=ParqueEstacionamento(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ buildLugares()
+comment3.params=indiceDoLugar\ autocarro
+comment3.target=void\ estacionar(int,\ Autocarro)
+comment4.params=indiceDoLugar\ autocarro
+comment4.target=void\ retirar(int,\ Autocarro)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
